@@ -1,3 +1,4 @@
+
 document.addEventListener("DOMContentLoaded", function () {
     const guessInput = document.getElementById("guess");
     const submitButton = document.getElementById("submit");
